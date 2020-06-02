@@ -1,7 +1,7 @@
-SuperCollider Workshop - Basics
-Prepared by Lisa
-2020.06.03 @ 19:00-21:00
-Week 1 / A+B
+### SuperCollider Workshop - Basics 
+2020.06.03 @ 19:00-21:00 | Prepared by Lisa
+
+Week 1 A
 
 
 * 下載：https://supercollider.github.io/download
