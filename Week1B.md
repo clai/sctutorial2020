@@ -1,4 +1,4 @@
-SuperCollider Workshop - Basics w/Sounds
+### SuperCollider Workshop - Basics w/Sounds
 2020.06.03 @ 19:00-21:00 | Prepared by Lisa
 
 Week 1 B
