@@ -65,7 +65,7 @@ x.set(\speed,10);
 
 2-1: 聲音開始與結束 ADSR: Envelope : EnvGen.kr
 
-![ADSR - Envelop] (https://www.arthurcarabott.com/assets/projects/mui-envelope/img/curve-adsr.png)
+![ADSR - Envelop](https://www.arthurcarabott.com/assets/projects/mui-envelope/img/curve-adsr.png)
 
 ````
 (
@@ -86,7 +86,7 @@ Pbind(\instrument, \sineEnv, \dur, 0.25, \freq, 500).play; //晚點多解釋 Seq
 
 2-2: 聲音開始與結束 XLine.kr(), Env.new, Env.perc, 
 
-![Env.new] (https://www.arthurcarabott.com/assets/projects/mui-envelope/img/supercollider-env.png)
+![Env.new](https://www.arthurcarabott.com/assets/projects/mui-envelope/img/supercollider-env.png)
 
 ````
 //XLine
